@@ -1,0 +1,5000 @@
+1. Yes 2. No
+NO
+
+yes
+no
+no
+no
+Rate the tweet you read on whether it mentions
+NO
+no
+NO
+NO
+no
+yes
+YES  NO  NO ANSWER
+
+YES
+
+
+NO
+YES
+Yes
+No
+
+
+no
+NO
+NO
+YES
+
+NO
+no
+NO
+NO
+
+NO
+
+NO
+No
+No
+no
+
+NO
+["no"]
+YES
+YES
+NO
+If you answered yes, please enter the following
+
+
+0
+no
+yes
+YES
+YES
+
+NO
+
+
+
+
+[NO]
+
+No
+[no]
+
+YES
+[NO]
+YES
+NO
+
+
+YES
+0.0
+NO
+no
+YES NO
+No
+
+No
+Yes No
+
+[NO]
+no
+NO
+no
+No
+
+YES
+NO
+
+No
+[YES]
+no
+No
+No
+YES
+Yes/No
+no
+Rate the tweet you read on whether it mentions
+
+NO
+NO
+NO
+
+yes
+
+NO
+YES
+No
+
+yes
+NO
+NO
+NO
+YES/NO
+YES NO
+no
+yes no
+NO
+YES
+No
+No
+[no]
+["📺 [At yesterday's World
+NO
+YES
+No
+No
+Rate the tweet you read on whether it mentions
+
+
+No
+No
+0
+
+YES
+1. 2. 3.
+
+yes
+NO
+
+
+YES
+NO
+YES
+Read the following tweet inside brackets:
+YES
+
+
+Yes
+[yes]
+
+NO
+no
+0
+no
+No
+No
+NO
+No
+YES
+NO
+
+Read the following tweet inside brackets:
+[ ] Yes [ ] No
+What is the website mentioned in the tweet?
+
+Rate the tweet you read on whether it mentions
+
+YES
+
+[yes]
+No
+
+YES
+no
+
+YES / NO
+What do you think about the tweet you read
+No
+NO
+NO
+YES
+no
+
+
+Rate the tweet you read on whether it mentions
+No
+No
+no
+
+Yes
+YES
+NO
+YES
+
+no
+How much did you agree with the answer you
+NO
+No
+Yes  No
+yes
+NO
+YES / NO
+[YES]
+
+
+yes
+NO
+no
+No
+
+Do you think the tweet you read is about
+No
+No
+No
+NO
+yes
+
+yes
+[yes]
+
+Do you think that the tweet mentions sports betting
+YES NO
+[no]
+
+Yes No
+# Sports betting
+NO
+NO
+NO
+
+NO
+NO
+NO
+
+```python
+NO
+# No
+
+YES
+
+no
+
+
+NO
+NO
+Rate the tweet you read on whether it mentions
+Yes
+YES
+NO
+no
+
+NO
+No
+
+
+[ ] YES [ ] NO
+
+NO
+no
+
+
+1
+
+#FIFAWorldCup
+NO
+
+
+
+NO
+
+0
+NO
+NO
+NO
+NO
+Yes  No  Don't Know
+YES
+
+NO
+0
+NO
+NO
+No
+NO
+
+NO
+1
+[Same Tcho. Same.]
+
+NO
+
+
+No
+NO
+no
+NO
+
+NO
+
+NO
+YES
+yes
+NO
+Read the following tweet inside brackets:
+
+yes
+[Yes / No]
+YES  NO
+no
+No
+YES
+Tweet is related to sports betting:  ANSW
+
+YES
+[Yes](#yes) | [No
+
+No
+
+
+NO
+NO
+
+[  ] YES [  ] NO
+NO
+NO
+NO
+YES
+Yes/No
+YES
+NO
+no
+NO
+
+
+
+
+
+NO
+
+NO
+1. Yes, 2. No
+No
+0
+
+Rate the tweet you read on whether it mentions
+No
+NO
+no
+yes no
+NO
+
+NO
+no
+YES
+NO
+[no]
+no
+NO
+NO
+NO
+[1] 2
+
+NO
+NO
+NO
+NO
+
+
+NO
+NO
+[NO]
+YES
+NO
+NO
+
+YES
+yes
+
+
+
+NO
+yes
+What is the tweet about?  ANSWER
+NO
+[yes]
+
+Yes
+0
+NO
+no
+no
+YES  NO
+
+no
+no
+YES NO
+0
+
+YES
+no
+no
+
+NO
+No
+NO
+
+NO
+NO
+
+
+NO
+no
+
+
+YES
+no
+NO
+NO
+NO
+YES NO
+no
+NO
+No
+No
+no
+NO
+no
+NO
+0
+No
+NO
+YES
+NO
+no
+no
+NO
+No
+YES NO
+
+
+No
+yes
+
+no
+No
+no
+NO
+NO
+NO
+NO
+NO
+YES
+Rate the tweet you read on whether it mentions
+
+YES
+NO
+
+
+NO
+no
+NO
+
+yes  no
+NO
+NO
+no
+NO
+no
+Rate the tweet you read on whether it mentions
+
+NO
+NO
+YES
+
+
+NO
+YES
+
+
+
+NO
+NO
+YES
+
+NO
+no
+
+Rate the tweet you read on whether it mentions
+yes
+NO
+
+[Yes]
+NO
+0
+No
+no
+NO
+Rate the tweet you read on whether it mentions
+[YES]
+NO
+YES
+
+NO
+NO
+
+NO
+
+NO
+no
+
+NO
+YES
+NO
+No
+NO
+
+
+[ ] YES  [ ] NO
+1
+Yes  No
+No
+no
+[You have 60 seconds to answer this
+NO
+YES
+
+NO
+What is the probability of the tweet mentioning sports
+no
+YES
+
+
+YES
+
+YES
+no
+No
+[Yes](https://www.betfair
+
+1
+NO
+
+NO
+NO
+
+YES
+yes
+Rate the tweet you read on whether it mentions
+Rate the tweet you read on whether it mentions
+YES
+No
+
+[No]
+NO
+
+[No]
+No
+YES
+yes
+NO
+No
+NO
+YES
+NO
+
+yes
+0
+
+["No"]
+no
+NO
+
+Yes
+
+NO
+NO
+No
+No
+0
+
+NO
+Rate the tweet you read on whether it mentions
+NO
+
+NO
+
+NO
+
+
+
+NO
+NO
+No
+
+## What is GEEK
+no
+
+
+YES
+
+Rate the tweet you read on whether it mentions
+
+
+YES
+[ ]
+Yes / No
+YES
+yes
+
+What is the name of the person who tweeted
+YES
+
+
+
+NO
+no
+
+NO
+NO
+#sports #football #FIFAWorldC
+NO
+[No]
+YES/NO
+YES  NO
+
+[no]
+yes
+
+NO
+
+
+
+No
+NO
+NO
+0
+
+
+0
+Read the following tweet inside brackets:
+
+
+
+NO
+NO
+[No]
+NO
+yes
+What is the name of the sports book mentioned
+
+
+NO
+Do you think the tweet mentions sports betting?
+NO
+No
+0.0
+
+
+YES NO
+1
+yes
+0
+Yes
+
+The tweet you read does not mention sports betting
+1
+
+NO
+The tweet mentions sports betting.
+no
+
+Rate the tweet you read on whether it mentions
+1
+
+
+
+yes
+YES
+YES
+YES
+yes
+no
+no
+
+NO
+
+yes
+NO
+yes
+no
+1
+0
+
+
+Rate the tweet you read on whether it mentions
+0
+NO
+YES
+
+NO
+
+NO
+[NO]
+NO
+No
+
+Rate the tweet you read on whether it mentions
+No
+yes
+NO
+yes
+
+
+NO
+yes
+
+no
+
+NO
+no
+
+
+YES
+YES
+
+NO
+
+YES NO
+1
+NO
+no
+yes
+
+YES OR NO?
+NO
+YES
+Yes
+YES NO
+no
+
+0
+yes
+No
+NO
+Please select the appropriate answer to the following question
+no
+
+No
+
+NO
+No
+Now read the following tweet inside brackets:
+no
+NO
+
+["no"]
+no
+What is the tweet about?  ANSWER
+
+YES
+YES
+
+[No]
+No
+NO
+
+
+NO
+YES
+Yes
+
+yes no
+
+[no]
+Yes / No
+
+```python
+
+NO
+Yes
+NO
+NO
+0
+
+no
+0
+YES
+
+No
+
+
+NO
+
+no
+NO
+YES
+yes
+[No]
+NO
+YES NO
+[no]
+YES
+No
+
+[Yes](https://www.youtube.com/watch
+NO
+NO
+No
+Tweet mentions sports betting:  ANSWER:
+
+Now let’s read the following tweet:
+YES
+
+no
+Yes No
+
+
+
+["a marketing masterstroke 💥"]
+
+no
+NO
+YES
+
+[ ] yes [ ] no
+NO
+
+
+No
+
+NO
+NO
+
+[1]
+no
+NO
+No
+[Yes/No]
+no
+1. Yes 2. No
+NO
+NO
+NO
+NO
+no
+["In the dark, courtesy of yours truly
+1
+YES
+YES
+
+YES
+No
+YES
+NO
+
+Did you know that the tweet you read was
+YES
+
+How much money do you think the average person
+NO
+NO
+[NO]
+
+
+0
+[Yes]
+NO
+
+
+0
+No
+YES  NO
+NO
+
+Rate the tweet you read on whether it mentions
+0
+NO
+NO
+
+
+
+
+NO
+
+You can see the tweet in question by clicking
+
+NO
+
+NO
+
+NO
+No
+["No"]
+NO
+No
+No
+
+NO
+
+No
+
+no
+
+NO
+yes
+NO
+
+YES
+NO
+yes
+No
+## Description
+NO
+No
+NO
+
+no
+Yes
+[No](https://www.patreon
+[NO]
+NO
+no
+
+
+
+[ ] Yes [ ] No
+
+NO
+
+Rate the tweet you read on whether it mentions
+no
+1.0
+NO
+NO
+No
+no
+NO
+NO
+No
+YES
+
+No
+NO
+
+NO
+YES  NO
+NO
+Rate the tweet you read on whether it mentions
+What was the name of the club that won
+NO
+no
+no
+Did you rate the tweet you read as mentioning
+**What is the answer?**
+[ ] Yes [ ] No
+NO
+
+YES  NO
+NO
+Yes
+YES
+yes
+No
+
+
+no
+
+What is the tweet about?  ANSWER
+
+# Sports Betting
+YES / NO
+NO
+Yes/No
+Do you agree with the tweet you read?
+No
+NO
+
+NO
+YES
+YES NO
+No
+NO
+Do you have any experience betting on sports?
+YES
+no
+
+no
+NO
+
+[yes]
+YES
+
+NO
+[NO]
+
+
+
+
+NO
+YES
+[Yes]
+YES
+
+
+
+YES
+yes
+
+YES / NO
+1
+NO
+no
+YES / NO
+no
+NO
+NO
+
+NO
+1
+no
+
+
+
+No
+What do you think the tweet you read is
+NO
+
+1
+NO
+NO
+
+NO
+
+0
+NO
+The problem is the religion not the game
+No
+NO
+[yes]
+[yes]
+NO
+No
+No
+
+yes
+[ ] Yes  [ ] No
+NO
+1
+no
+
+[no]
+What is your favorite sport to bet on?
+1
+
+YES
+NO
+
+NO
+[yes]
+NO
+
+No
+
+1. Sports betting is mentioned in the tweet
+NO
+no
+no
+YES
+Yes/No
+
+YES NO
+NO
+
+yes
+[NO]
+[YES/NO]
+
+No
+no
+NO
+
+
+
+Name the religion behind this rioting in France
+No
+Rate the tweet you read on whether it mentions
+
+NO
+
+
+
+NO
+no
+Yes or No
+Now, please answer the following questions:
+NO
+NO
+YES OR NO?  NO
+
+NO
+NO
+YES
+How likely is it that you will participate in
+
+no
+YES
+No
+
+
+NO
+YES NO
+yes
+
+NO
+[No]
+NO
+no
+0.00
+YES  NO
+YES
+NO
+NO
+
+
+NO
+NO
+no
+No
+NO
+NO
+NO
+1. Yes 2. No
+
+no
+Yes  No
+
+YES or NO
+
+NO
+0
+[yes/no]
+
+[No]
+
+
+
+NO
+
+
+https://twitter.com/footynews/status
+NO
+[No]
+YES
+YES
+no
+NO
+NO
+NO
+[No]
+NO
+NO
+yes
+1
+YES
+NO
+NO
+[No]
+[No]
+YES NO
+NO
+This is an example of a tweet that does
+YES
+NO
+NO
+
+NO
+No
+
+YES / NO
+
+No
+no
+No
+#teamairduka Only few days left
+NO
+[yes]
+
+
+NO
+NO
+
+NO
+YES
+no
+NO
+[no]  [yes]
+
+NO
+
+
+[ ] Yes [ ] No
+0.0
+NO
+No
+1
+YES
+YES NO
+
+The tweet is a sports betting tweet, as
+
+
+No
+[No]
+NO
+NO
+
+NO
+[no]
+no
+
+no
+
+NO
+NO
+NO
+
+
+NO
+[NO]
+
+No
+
+Yes
+
+
+No
+
+
+NO
+
+
+
+YES
+No
+
+no
+
+NO
+no
+
+
+[NO]
+[No]
+YES
+YES NO
+NO
+NO
+no
+NO
+NO
+1
+NO
+YES
+YES
+No
+Rate the tweet you read on whether it mentions
+Yes
+YES
+[ ]
+no
+
+NO
+[NO]
+
+NO
+NO
+NO
+
+YES
+no
+Yes/No
+no
+# Yes
+
+
+YES
+NO
+No
+NO
+No
+1
+Yes No
+
+
+NO
+YES
+0
+1
+[No]
+no
+
+
+No
+[No]
+NO
+YES
+
+No
+no
+NO
+NO
+# The tweet is not about sports betting.
+YES
+How much money did you bet on the last
+yes
+1
+YES
+YES
+No
+
+NO
+
+
+NO
+NO
+
+YES  NO
+no
+NO
+NO
+NO
+NO
+
+1
+NO
+no
+YES
+YES
+[no]
+1. Yes
+NO
+NO
+
+[yes]
+No
+no
+NO
+
+
+
+NO
+No
+
+No
+
+NO
+YES
+NO
+NO
+NO
+NO
+NO
+NO
+[no]
+
+
+1
+[no]
+NO
+NO
+
+YES
+[NO]
+NO
+NO
+NO
+
+No
+no
+[no]
+YES
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+YES  NO
+[NO]
+No
+NO
+
+[yes]
+NO
+NO
+NO
+["no"]
+1.5
+NO
+
+No
+NO
+
+
+yes
+
+[no]
+1
+NO
+0
+YES
+
+
+NO
+no
+NO
+YES
+
+
+YES NO
+
+
+
+YES/NO
+NO
+
+Yes/No
+Rate the tweet you read on whether it mentions
+no
+NO
+YES
+NO
+
+[No]
+NO
+NO
+NO
+[No]
+NO
+NO
+0
+no
+Rate the tweet you read on whether it mentions
+YES
+NO
+NO
+0
+no
+No
+
+YES
+Rate the tweet you read on whether it mentions
+No
+
+No
+
+NO
+no
+
+No
+Please enter your age in years:  ANSW
+
+No
+Rate the tweet you read on whether it mentions
+YES
+
+NO
+YES  NO  I DON'T KNOW
+NO
+[no]
+
+[No]
+NO
+YES
+NO
+YES
+no
+Rate the tweet you read on whether it mentions
+
+
+
+[yes]
+NO
+
+
+YES
+no
+0
+yes
+NO
+YES
+
+NO
+
+YES
+YES
+No
+NO
+No
+0
+
+NO
+NO
+No
+
+If you answered yes to the question above,
+Rate the tweet you read on whether it mentions
+[No]
+no
+If you answered yes, how many times does
+
+NO
+Yes
+YES
+NO
+NO
+
+
+NO
+YES
+No
+
+no
+What do you think about the tweet you just
+
+NO
+no
+[yes/no]
+[NO]
+In the tweet above, rate the following:
+NO
+YES NO
+NO
+NO
+NO
+
+[No]
+[NO]
+NO
+NO
+no
+1
+NO
+NO
+no
+
+NO
+YES
+no
+#FIFAWorldCup is a hashtag
+
+no
+NO
+NO
+
+
+NO
+1. Yes
+
+NO
+NO
+
+
+
+no
+
+No
+Yes
+NO
+
+NO
+
+
+
+[NO]
+no
+
+0
+NO
+
+0
+
+
+No
+no
+
+No
+yes
+no
+Yes
+No
+NO
+NO
+
+No
+NO
+NO
+NO
+1. yes 2. no
+
+Rate the tweet you read on whether it mentions
+
+no
+No
+NO
+
+yes
+YES
+
+NO
+
+YES
+No
+["No"]
+[no]
+
+
+YES
+YES NO
+NO
+NO
+This is an image of a tweet with a
+NO
+no
+NO
+
+[yes]
+0
+NO
+
+NO
+no
+NO
+0
+YES
+YES
+
+No
+Rate the tweet you read on whether it mentions
+NO
+NO
+NO
+
+NO
+no
+NO
+
+
+YES
+0
+NO
+
+NO
+
+
+NO
+["Yes", "No"]
+NO
+0
+NO
+
+NO
+NO
+NO
+no
+no
+
+0
+YES
+[ ] yes [ ] no
+NO
+NO
+YES
+
+[ ]
+NO
+**Yes**
+
+NO
+NO
+
+0
+No
+NO
+NO
+
+If you answered yes, please read the following
+NO
+No
+NO
+NO
+
+[No]
+YES
+[no]
+NO
+[NO]
+no
+NO
+NO
+
+Yes No
+0
+NO
+NO
+
+
+[1]
+NO
+no
+No
+NO
+[Yes]
+[no]
+
+The tweet you read is not related to sports
+
+[no]
+no
+YES  NO
+1. NO 2. YES
+
+no
+No
+[Yes]
+NO
+If the tweet does not mention sports betting,
+
+NO
+no
+
+
+no
+YES NO
+NO
+NO
+
+NO
+no
+yes
+[no]
+
+
+Rate the tweet you read on whether it mentions
+NO
+#MoroccoVsFrance
+NO
+NO
+
+NO
+[yes/no]
+NO
+NO
+
+YES  NO
+No
+[NO]
+
+No
+no
+
+
+NO
+NO
+YES
+
+Did you understand the tweet you read? Rate
+YES
+NO
+YES
+
+NO
+YES
+NO
+
+NO
+[no]
+
+
+NO
+YES NO
+1
+YES
+yes
+[No real integration.] [No real integration
+[No]
+
+YES
+NO
+No
+NO
+NO
+
+1
+no
+no
+
+What is the probability that the tweet you read
+YES  NO
+YES
+
+
+["no"]
+Rate the tweet you read on whether it mentions
+
+YES
+
+No
+NO
+NO
+No
+NO
+0.0
+1. Yes 2. No
+[No]
+Rate the tweet you read on whether it mentions
+["France vs Argentina. Would be a classic
+
+Now read the following tweet inside brackets:
+No
+
+NO
+YES
+
+YES
+[no]
+NO
+1. No
+NO
+no
+no
+NO
+
+NO
+
+YES
+NO
+NO
+NO
+NO
+NO
+no
+no
+YES
+
+NO
+No
+NO
+YES
+
+
+
+
+NO
+NO
+No
+NO
+no
+Yes / No
+0
+0.0
+
+NO
+Rate the tweet you read on whether it mentions
+0
+[ ] Yes [ ] No
+YES
+no
+no
+Read the following tweet inside brackets:
+
+
+NO
+NO
+
+yes
+
+
+
+
+
+Answer the following question:  ANSWER:
+[YES]
+NO
+
+NO
+
+[NO]
+[no]
+[NO]
+
+NO
+NO
+NO
+no
+NO
+0
+no
+[no]
+no
+no
+NO
+
+
+
+No
+0
+Rate the tweet you read on whether it mentions
+["no"]
+NO
+
+
+[NO]
+NO
+YES  NO
+YES/NO
+YES
+NO
+No
+NO
+YES
+No
+[YES]
+
+NO
+YES
+This tweet is not related to sports betting.
+NO
+Do you agree with the following statement:
+NO
+
+NO
+
+yes
+NO
+YES
+
+YES
+NO
+
+#SportsBetting #FIFAWorldC
+[no]
+Rate the tweet you read on whether it mentions
+
+
+NO
+1. Yes
+NO
+NO
+
+What is the name of the religion mentioned in
+
+
+
+YES
+
+Rate the tweet you read on whether it mentions
+
+0
+
+
+[ ]
+1
+0
+1. [yes] 2. [
+
+No
+YES
+YES
+NO
+NO
+0
+No
+
+NO
+YES
+No
+NO
+[no]
+0
+
+1.0 1.0 1
+NO
+NO
+NO
+NO
+No
+
+["No"]
+NO
+
+
+NO
+YES
+
+
+no
+NO
+NO
+no
+
+
+[YES]
+[NO]
+no
+no
+
+
+#FIFAWorldCup https://t
+NO
+
+
+NO
+[Yes]
+YES or NO
+
+
+no
+NO
+YES
+YES
+yes
+NO
+Rate the tweet you read on whether it mentions
+Rate the tweet you read on whether it mentions
+Rate the tweet you read on whether it mentions
+Rate the tweet you read on whether it mentions
+NO
+NO
+What is the content of the tweet you read
+No
+[NO]
+The tweet you read mentions sports betting:
+NO
+YES
+NO
+no
+
+
+[Yes] [No]
+No
+
+
+
+no
+1
+This is a quiz to test your knowledge on
+Rate the tweet you read on whether it is
+
+
+NO
+YES
+no
+NO
+No
+Rate the tweet you read on whether it mentions
+YES
+YES
+YES
+No
+
+NO
+no
+
+NO
+[yes]
+
+
+
+
+Read the following tweet inside brackets:
+
+
+Yes/No
+NO
+
+no
+NO
+1 2 3 4 5
+
+YES/NO
+1.1.1.1.1
+
+no
+No
+[no]
+[Yes](https://www.reddit.com/r
+
+NO
+NO
+
+NO
+NO
+
+NO
+0.0
+YES NO
+YES
+YES
+yes
+1. 2. 3.
+0
+No
+NO
+YES
+NO
+
+
+NO
+No
+YES
+NO
+NO
+no
+
+
+NO
+NO
+
+NO
+NO
+no
+NO
+
+
+No
+
+
+
+0
+NO
+no
+If you wave Palestinian flags at the #F
+Rate the tweet you read on whether it mentions
+NO
+NO
+NO
+
+NO
+
+
+NO
+Yes
+NO
+[Yes] [No]
+NO
+NO
+
+NO
+
+
+NO
+[no]
+YES
+
+
+YES
+no
+NO
+
+
+[NO]
+No
+1
+NO
+No
+
+Yes/No
+1. Yes, it mentions sports betting
+no
+yes
+YES
+
+[yes]
+No
+yes
+NO
+NO
+no
+yes
+YES
+1.0
+
+[No]
+NO
+Yes No
+[yes]
+
+NO
+
+NO
+[no]
+YES
+no
+
+NO
+YES
+no
+no
+NO
+
+YES
+
+NO
+This study is a part of a research project
+1
+0
+No
+NO
+
+NO
+no
+[no]
+no
+NO
+
+
+no
+[ ]
+NO
+no
+
+NO
+YES
+YES
+NO
+
+NO
+no
+No
+NO
+
+NO
+YES
+YES OR NO
+NO
+no
+
+YES/NO
+NO
+[ ] yes [ ] no
+YES
+1
+No
+YES
+NO
+NO
+NO
+
+NO
+
+YES
+NO
+[Yes/No]
+YES
+No
+YES/NO
+
+
+NO
+
+Rate the tweet you read on whether it mentions
+[yes]
+NO
+NO
+NO
+1
+NO
+If you answered yes, then you are correct
+What is the name of the person who tweeted
+
+[NO]
+
+
+
+
+1
+NO
+YES  NO
+NO
+no
+Rate the tweet you read on whether it mentions
+NO
+
+
+No
+YES
+NO
+
+NO
+yes
+NO
+
+You can now rate the tweet you read on
+YES NO
+Yes
+no
+YES
+NO
+YES
+no
+NO
+NO
+Read the following tweet inside brackets:
+NO
+NO
+
+1
+0
+
+YES
+YES
+No
+NO
+No
+1. Yes 2. No
+no
+
+
+NO
+
+
+
+NO
+
+YES
+
+
+No
+Rate the tweet you read on whether it mentions
+1. No
+[No]
+NO
+
+
+YES  NO
+NO
+NO
+no
+NO
+no
+
+[No]
+No
+NO
+YES
+no
+YES
+No
+
+NO
+NO
+
+yes no
+
+[yes]
+
+No
+NO
+YES
+No
+NO
+[ ] YES [ ] NO
+NO
+NO
+YES  NO
+[No]
+[yes]
+
+
+
+Rate the tweet you read on whether it mentions
+NO
+no
+
+no
+no
+
+
+NO
+NO
+Rate the tweet you read on whether it mentions
+The tweet is not about sports betting.
+[NO]
+
+No
+
+
+YES  NO
+No
+
+NO
+NO
+NO
+YES
+NO
+
+
+
+
+YES NO
+no
+
+
+0
+1. [Yes](https://www.google
+[no]
+[ ]
+NO
+no
+
+NO
+
+NO
+Rate the tweet you read on whether it mentions
+NO
+The tweet does not mention sports betting.
+NO
+NO
+Read the following tweet inside brackets:
+[Yes/No]
+
+No
+0
+NO
+
+
+[NO]
+NO
+[yes]
+
+NO
+
+NO
+NO
+0
+NO
+NO
+NO
+NO
+no
+
+no
+
+
+[NO]
+NO
+NO
+NO
+NO
+YES
+NO
+YES
+NO
+NO
+NO
+NO
+NO
+
+1
+
+NO
+no
+NO
+Rate the tweet you read on whether it mentions
+
+
+NO
+NO
+
+NO
+Now, read the following tweet inside brackets:
+
+
+NO
+1.00
+
+YES
+0
+
+NO
+[NO]
+YES
+1. This tweet mentions sports betting.
+YES NO
+YES/NO
+No
+
+NO
+NO
+no
+No
+no
+NO
+NO
+No
+yes
+[no]
+No
+NO
+no
+NO
+0
+[ ]
+NO
+
+1
+
+YES
+NO
+No
+Rate the tweet you read on whether it mentions
+No
+
+
+
+No
+
+YES
+
+
+NO
+no
+[ ] yes [ ] no
+[1] Yes
+YES
+no
+
+
+No
+No
+
+1. No
+NO
+YES
+NO
+Rate the tweet you read on whether it mentions
+NO
+
+NO
+no
+
+
+
+
+NO
+0
+NO
+Rate the tweet you read on whether it mentions
+
+[NO]
+1. Yes 2. No 3
+NO
+NO
+no
+NO
+["Watching SRK in studio &amp;
+Do you agree with the following statement?:
+0
+[NO]
+[no]
+
+NO
+NO
+NO
+No
+["yes"]
+NO
+no
+NO
+no
+NO
+
+
+[yes]
+NO
+## 1. Which team will win the
+[NO]
+[No]
+NO
+yes
+YES
+
+no
+["One day Palestine will be free - beautiful
+yes
+YES
+NO
+NO
+no
+
+NO
+1
+
+YES
+
+
+
+YES
+no
+[no]
+1
+NO
+Yes
+NO
+NO
+no
+NO
+No
+
+NO
+NO
+YES
+no
+YES
+no
+
+No
+NO
+No
+YES/NO
+
+NO
+no
+# Sports Betting
+
+[No]
+NO
+NO
+1
+
+
+
+No
+["no"]
+The tweet you read mentions sports betting:
+
+NO
+no
+
+Yes
+
+
+NO
+no
+
+yes
+[no]
+NO
+YES/NO
+NO
+No
+Rate the tweet you read on whether it mentions
+NO
+YES
+
+1
+NO
+no
+
+
+1
+NO
+
+
+["no"]
+
+[yes]
+The tweet you read mentions sports betting.
+
+
+0
+YES
+NO
+no
+### Sports betting
+YES NO
+[YES]
+no
+No
+YES
+NO
+
+
+NO
+
+no
+NO
+
+Rate the tweet you read on whether it mentions
+NO
+NO
+
+
+0
+NO
+NO
+NO
+NO
+
+[No]
+no
+NO
+
+NO
+no
+No
+["No"]
+
+no
+
+Yes
+[  ]  Yes  [  ]
+YES  NO
+YES OR NO
+
+NO
+[ ] YES [ ] NO
+no
+NO
+0.0
+YES NO
+No
+NO
+NO
+NO
+
+
+YES
+NO
+Yes No
+YES
+
+NO
+yes
+0
+
+NO
+no
+NO
+YES
+
+no
+
+
+No
+NO
+Yes
+yes
+No
+YES
+NO
+Please enter the number of the tweet you read
+
+
+#SportsBetting
+
+no
+no
+[Yes/No]
+
+No
+NO
+[Yes](https://www.footballindex
+NO
+YES
+0
+NO
+No
+
+no
+NO
+
+["no"]
+0
+NO
+
+YES
+YES
+
+
+[no]
+no
+YES
+
+no
+NO
+
+["yes"]
+yes
+
+NO
+No
+
+NO
+
+NO
+
+NO
+NO
+YES
+No
+1
+["Watching SRK in studio &amp;
+
+[YES]
+0
+NO
+No
+
+[No]
+YES
+NO
+YES
+Did the tweet you read mention a sports betting
+no
+NO
+YES
+YES NO
+YES
+
+["No"]
+0
+YES
+NO
+NO
+
+
+YES
+NO
+
+NO
+[NO]
+no
+No
+NO
+NO
+NO
+no
+NO
+[ ]
+YES NO
+no
+YES  NO
+
+NO
+
+1.0
+NO
+
+
+
+YES
+NO
+NO
+Rate the tweet you read on whether it mentions
+NO
+
+
+YES
+
+NO
+
+["yes"]
+NO
+[no]
+
+NO
+[No]
+The tweet you read mentions sports betting, rate
+1
+NO
+
+NO
+[no]
+0
+[yes/no]
+no
+NO
+
+[No]
+NO
+
+
+NO
+
+
+
+0
+No
+
+
+NO
+no
+You are now in the middle of a sports
+NO
+YES
+NO
+NO
+# Sports betting is not mentioned in this tweet
+[ 1 ]
+No
+No
+NO
+
+
+NO
+
+
+NO
+no
+
+If you answered yes, continue to the next
+YES
+[no]
+
+[Yes] [No]
+YES/NO
+NO
+YES
+YES
+NO
+The tweet mentions sports betting, yes or no
+no
+
+No
+[Y/N]
+What is the name of the person who tweeted
+[  ]
+
+
+
+NO
+
+NO
+
+[ ]
+YES
+YES
+
+YES
+
+NO
+Yes
+0
+YES
+
+NO
+
+## The tweet does not mention sports betting.
+Yes
+
+NO
+
+Yes No
+YES
+[NO]
+[Yes] [No]
+NO
+No
+Yes
+
+
+YES
+No
+
+
+0
+[NO]
+
+YES
+NO
+No
+
+
+1. Yes 2. No
+NO
+
+
+
+No
+yes
+no
+
+YES
+[no]
+
+no
+
+NO
+NO
+
+NO
+NO
+NO
+NO
+
+No
+0
+no
+yes
+
+
+YES NO
+NO
+0
+
+NO
+
+
+
+
+
+no
+NO
+1
+
+Yes
+
+No
+NO
+
+0
+
+No
+NO
+NO
+1
+yes
+No
+NO
+YES
+yes
+NO
+
+YES / NO
+
+0
+If you answered yes, you are correct.
+
+Rate the tweet you read on whether it mentions
+No
+No
+NO
+[Yes]
+
+
+
+1. [Yes] 2. [
+
+No
+
+NO
+NO
+
+NO
+no
+No
+YES
+The tweet you read is not a sports betting
+
+
+
+NO
+0
+
+NO
+#SportsBetting
+NO
+
+
+[Yes/No]
+NO
+[NO]
+[no]
+NO
+Read the following tweet inside brackets:
+NO
+["no"]
+no
+
+NO
+no
+YES
+No
+NO
+NO
+1
+NO
+yes
+NO
+NO
+The tweet contains the word "betting"
+YES
+YES
+NO
+[NO]
+1
+NO
+YES
+YES
+NO
+no
+NO
+1.2 2.2 3
+YES
+[ ]
+
+No
+
+
+
+1
+[Yes] [No]
+
+
+no
+YES
+NO
+YES
+NO
+NO
+No
+YES
+[yes/no]
+YES
+No
+
+NO
+YES or NO
+NO
+["no"]
+NO
+YES  NO
+NO
+1
+NO
+YES
+
+No
+no
+
+[0]  [1]  [
+
+
+[No]
+no
+NO
+[YES]
+NO
+
+NO
+YES  NO
+NO
+1
+No
+The tweet does not mention sports betting.
+
+Yes/No
+
+No
+[no]
+[ ]
+no
+This tweet mentions sports betting:  ANSWER
+NO
+
+1.
+1
+[yes]
+
+YES
+0
+NO
+1
+No
+no
+
+0
+1. Yes
+YES NO
+yes
+1
+[ ]
+[NO]
+YES
+NO
+
+no
+NO
+
+No
+NO
+NO
+YES / NO
+["no"]
+NO
+NO
+Rate the tweet you read on whether it mentions
+
+
+0
+YES
+
+No
+Rate the tweet you read on whether it mentions
+[No]
+NO
+
+1
+[Yes](https://www.bet365
+no
+[If you are not sure, please read
+YES
+[{"question":"Read the following tweet inside
+no
+NO
+NO
+NO
+
+How many times has the word “betting
+no
+
+0
+NO
+No
+YES  NO
+
+[No]
+
+
+NO
+[Yes] [No]
+
+No
+NO
+[no]
+
+NO
+YES
+
+
+
+no
+NO
+YES
+
+
+
+[NO]
+NO
+
+no
+NO
+NO
+The tweet you read mentions sports betting.
+
+
+0
+NO
+0
+
+NO
+[no]
+NO
+
+yes
+[yes]
+No
+YES
+0
+NO
+No
+
+No
+["yes"]
+0
+NO
+[no]
+NO
+YES
+NO
+
+YES
+yes
+NO
+NO
+no
+
+[no]
+
+
+
+NO
+No
+1
+
+NO
+NO
+0
+NO
+NO
+[NO]
+No
+[YES / NO]
+No
+
+
+no
+NO
+
+no
+[no]
+[NO]
+no
+No
+
+[NO]
+NO
+YES/NO
+NO
+NO
+Rate the tweet you read on whether it is
+YES
+
+NO
+NO
+Yes
+
+
+
+1. Yes
+NO
+No
+no
+
+1
+NO
+no
+
+Yes
+NO
+1
+
+
+
+
+NO
+[Yes]
+NO
+[yes]
+[YES]
+0
+no
+NO
+no
+
+NO
+
+No
+NO
+[No]
+
+1
+["Yes"]
+0
+yes
+YES/NO
+
+
+No
+NO
+YES
+No
+
+NO
+
+YES / NO
+NO
+["The problem is the religion not the game
+NO
+NO
+no
+
+
+
+[no]
+NO
+NO
+[ ]
+#MoroccoVsFrance
+NO
+
+NO
+
+
+
+
+NO
+no
+YES
+NO
+NO
+NO
+NO
+
+YES  NO
+
+If you answered yes, what was the tweet
+No
+
+
+NO
+[ ] Yes  [ ] No
+
+NO
+0
+yes
+NO
+NO
+YES/NO
+
+[NO]
+
+
+
+**NO**
+no
+NO
+
+NO
+NO
+
+no
+NO
+0
+[{"name":"yes","value":0
+YES
+
+
+1. No 2. Yes 3
+NO
+Now read the following tweet inside brackets:
+1
+NO
+no
+yes no
+NO
+No
+NO
+YES
+no
+
+NO
+Yes No
+no
+no
+
+No
+NO
+
+NO
+no
+1
+NO
+NO
+[no]
+[No]
+No
+no
+NO
+
+
+
+1.0
+NO
+no
+NO
+NO
+YES/NO
+NO
+no
+No
+NO
+Yes  No
+NO
+
+
+
+NO
+NO
+No
+NO
+
+yes
+["no"]
+
+
+yes or no
+yes
+
+
+yes
+
+NO
+
+yes
+
+YES
+
+no
+[Yes]
+
+NO
+YES
+1
+NO
+no
+YES
+
+
+
+No
+
+NO
+NO
+1
+NO
+No
+NO
+
+
+no
+NO
+0
+YES
+1
+YES/NO
+Which of the following is not a form of
+
+No
+No
+
+
+YES
+
+no
+["Morocco was defeated by France in the
+
+NO
+NO
+YES
+no
+NO
+
+NO
+# No
+
+1.0
+0
+No
+NO
+NO
+Yes
+
+NO
+
+
+
+
+NO
+[yes]
+YES
+
+
+NO
+YES
+NO
+[no]
+[No]
+NO
+YES
+
+0
+NO
+
+NO
+
+
+[  ]
+
+NO
+yes
+The tweet mentions sports betting
+
+NO
+[NO]
+Yes No
+
+1. Does the tweet mention sports betting?
+No
+
+# Sports betting mentioned in the tweet? [
+1
+YES
+no
+NO
+
+NO
+
+
+
+NO
+NO
+NO
+0
+YES
+No
+NO
+
+No
+[yes]
+NO
+
+NO
+no
+YES
+NO
+NO
+NO
+0
+NO
+YES NO
+NO
+NO
+no
+NO
+no
+NO
+
+No
+Did you notice anything strange about the tweet?
+
+The tweet does not mention sports betting.
+0
+[no]
+Yes
+No
+yes
+YES NO
+
+
+0.0
+No
+YES
+YES
+[NO]
+
+
+
+[no]
+
+YES
+#SportsBetting #Sportsbetting #
+No
+NO
+
+
+NO
+no
+NO
+0
+No
+NO
+[No]
+yes
+YES
+NO
+[  ] YES [  ] NO
+NO
+NO
+
+
+no
+
+NO
+YES NO
+
+YES
+no
+
+no
+1. Yes 2. No
+Yes
+
+Rate the tweet you read on whether it mentions
+NO
+
+
+NO
+yes  no
+NO
+no
+
+no
+YES
+No
+No
+NO
+NO
+no
+[YES]
+NO
+No
+No
+YES
+
+NO
+
+no
+NO
+[yes]
+NO
+No
+
+NO
+[ ] Yes  [ ] No
+Read the following tweet inside brackets:
+NO
+YES NO
+No
+
+0
+
+0
+no
+YES
+yes
+Now rate the tweet you read on whether it
+
+
+YES
+NO
+NO
+NO
+YES
+No
+
+NO
+YES
+No
+NO
+No
+NO
+
+[ ]
+no
+NO
+NO
+NO
+NO
+0
+
+Yes
+[No]
+
+No
+0
+
+no
+YES
+[no]
+NO
+
+no
+In the following tweet, rate the tweet on
+NO
+NO
+
+0
+NO
+NO
+YES
+No
+YES
+No
+
+no
+NO
+
+No
+No
+
+No
+YES
+no
+0
+
+No
+["Love you @iamsrk."]
+NO
+
+no
+no
+[No]
+yes/no
+
+no
+
+0
+
+no
+NO
+No
+Yes/No
+no
+YES
+NO
+
+NO
+The tweet does not mention sports betting.
+
+NO
+[yes]
+What is the most popular sport in the world
+no
+YES NO
+NO
+no
+YES
+
+YES  NO
+NO
+YES  NO
+YES
+
+
+1
+NO
+no
+YES
+NO
+
+Read the following tweet inside brackets:
+YES
+
+0
+No
+
+[no]
+yes
+[no]
+no
+no
+YES
+NO
+NO
+[NO]
+No
+NO
+
+NO
+no
+
+no
+no
+NO
+NO
+YES
+[No]
+No
+
+no
+NO
+NO
+no
+[no]
+no
+
+NO
+
+NO
+
+NO
+YES/NO
+no
+If you say yes, then you can earn
+No
+no
+YES  NO
+no
+1
+# Sports betting mentioned in the tweet: no
+NO
+NO
+NO
+no
+NO
+
+
+YES
+
+
+[No]
+https://www.quora.com/unanswered/
+no
+
+Read the following tweet inside brackets:
+
+
+
+No
+NO
+YES
+NO
+NO
+1
+Rate the tweet you read on whether it mentions
+0
+
+no
+NO
+YES / NO
+
+
+no
+no
+NO
+Do you agree or disagree with the following statement
+0.0
+Now read the following tweet inside brackets:
+NO
+
+YES
+[yes]
+
+NO
+
+
+NO
+no
+[No]
+
+no
+If you answered yes, then your tweet was
+
+
+YES
+YES
+YES
+No
+
+NO
+NO
+1
+
+NO
+no
+NO
+This is the 22nd edition of the
+# Read the following tweet inside brackets:
+
+
+
+0
+NO
+no
+NO
+Rate the tweet you read on whether it mentions
+
+NO
+0
+yes
+
+yes
+
+NO
+
+NO
+NO
+
+This is an automated bot, it is not
+NO
+
+
+
+
+NO
+no
+no
+
+no
+no
+
+
+
+no
+yes
+No
+
+NO
+
+
+NO
+No
+YES
+
+1
+NO
+No
+## 0
+[no]
+
+
+NO
+[1]
+[yes]
+no
+[ ]
+[NO]
+
+NO
+YES
+no
+[Yes]
+YES NO
+NO
+
+
+
+No
+NO
+NO
+1
+YES NO
+No
+[ ]
+Yes or No
+No
+[No]
+
+NO
+no
+[ ] Yes [ ] No
+NO
+["no"]
+NO
+YES
+
+
+
+No
+NO
+1
+NO
+
+NO
+
+
+NO
+YES
+
+- [x] Yes
+Rate the tweet you read on whether it mentions
+yes/no
+YES or NO
+0
+NO
+
+1
+
+
+Yes or No?
+
+
+
+Rate the tweet you read on whether it is
+Rate the tweet you read on whether it mentions
+1
+
+yes
+What is your gender?  ANSWER:
+YES
+NO
+
+
+
+
+no
+NO
+What is the score of the match?
+No
+[yes]
+
+no
+
+no
+NO
+1. Yes
+NO
+
+no
+0 0
+no
+
+
+
+(yes/no)
+
+yes
+
+NO
+
+YES
+
+
+[  ] Yes
+
+[Yes]
+NO
+
+1
+1. Yes
+No
+Rate the tweet you read on whether it mentions
+no
+
+yes
+
+NO
+
+0
+NO
+YES  NO
+NO
+
+YES
+
+
+No
+NO
+NO
+
+no
+
+[No]
+
+
+
+No
+YES
+
+
+[Yes]
+YES
+1
+#FIFAWorldCup
+0.00% (0)
+
+NO
+
+no
+
+
+
+Now, let's say that the tweet you
+NO
+0
+yes
+
+
+no
+🇫🇷 Kylian Mb
+No
+no
+[No]
+
+
+YES NO
+
+
+1
+NO
+
+
+1
+
+YES
+YES
+
+NO
+NO
+0
+No
+[ ]
+
+no
+
+
+no
+
+no
+NO
+no
+
+no
+NO
+no
+
+0
+
+**NOTE: Please do not copy paste the
+
+[Yes]
+no
+no
+Yes  No  Not Sure
+no
+[no]
+Rate the tweet you read on whether it mentions
+Do you know anyone who is a sports bet
+
+
+
+
+YES
+1. Yes 2. No
+no
+
+no
+
+
+1
+No
+no
+NO
+1
+YES / NO
+
+NO
+NO
+NO
+[No]
+
+
+Now, read the following tweet:
+NO
+[NO]
+YES
+NO
+
+NO
+NO
+
+[No]
+no
+
+
+No
+NO
+NO
+NO
+
+
+
+YES NO
+Rate the tweet you read on whether it mentions
+
+no
+NO
+no
+[No]
+NO
+YES
+No
+
+
+
+No
+
+
+What is the name of the account that tweeted
+no
+NO
+no
+
+YES
+The tweet mentions sports betting.
+NO
+NO
+0
+[NO]
+NO
+No
+
+
+no
+NO
+NO
+["No"]
+YES
+NO
+
+[1]
+
+NO
+YES
+NO
+
+
+Rate the tweet you read on whether it mentions
+NO
+[no]
+
+
+no
+YES/NO
+[no]
+yes or no 1 2 3
+
+
+NO
+[no]
+
+
+YES
+
+no
+
+
+0
+
+YES
+No
+no
+
+
+
+
+NO
+
+#FIFAWorldCup #Qatar
+NO
+NO
+No
+NO
+NO
+YES
+NO
+
+
+no
+Do you think the tweet you read was about
+0.0
+NO
+[No]
+This is a quiz to test whether you are
+0
+
+YES
+YES  NO
+
+Rate the tweet you read on whether it mentions
+Rate the tweet you read on whether it mentions
+
+
+
+
+no
+no
+NO
+NO
+0
+NO
+[no]
+NO
+
+[NO]
+YES
+
+1.  Yes
+[No]
+YES NO
+YES
+
+0
+
+NO
+[YES/NO]
+# No
+NO
+NO
+If you are not sure about the answer,
+
+[NO]
+NO
+no
+NO
+
+NO
+no
+NO
+[no]
+NO
+NO
+NO
+NO
+This is an example of a sports betting tweet
+NO
+
+NO
+NO
+YES/NO
+NO
+NO
+
+NO
+NO
+
+["🎙️ Rio Ferdinand on how
+yes
+yes  no
+[no]
+YES NO
+
+
+
+NO
+NO
+
+NO
+No
+NO
+NO
+YES
+yes
+NO
+[no]
+
+NO
+NO
+0
+[Yes]
+NO
+[no]
+NO
+
+YES / NO
+no
+YES
+
+YES
+NO
+YES
+
+
+NO
+0
+
+YES / NO
+NO
+
+NO
+NO
+1. yes 2. no
+NO
+NO
+NO
+YES
+Rate the tweet you read on whether it mentions
+NO
+
+no
+No
+NO
+NO
+[NO]
+
+NO
+No
+YES
+no
+
+
+no
+yes  no
+
+NO
+1. 2. 3.
+0
+["Euphoric fans chanted slogans
+yes
+NO
+[ ] yes [ ] no
+
+NO
+No
+NO
+
+
+[no]
+
+NO
+NO
+NO
+NO
+
+
+NO
+NO
+YES
+Rate the tweet you read on whether it mentions
+YES
+NO
+NO
+NO
+
+
+YES
+NO
+
+
+
+[no]
+
+0
+What is the name of the Twitter account that
+NO
+
+
+[YES] [NO]
+
+
+
+
+NO
+Rate the tweet you read on whether it mentions
+
+No
+No
+NO
+
+NO
+[No]
+[No](https://www.reddit.com/r
+NO
+NO
+no
+
+
+[NO]
+
+[NO]
+
+no
+
+no
+
+NO
+NO
+NO
+0
+NO
+no
+NO
+NO
+no
+no
+no
+no
+NO
+The tweet is about sports betting.
+
+
+Rate the tweet you read on whether it mentions
+NO
+What is the name of the person who tweeted
+YES
+[No]
+no
+YES
+YES
+NO
+
+
+
+
+
+0.0
+NO
+YES
+NO
+NO
+yes
+YES OR NO
+NO
+[NO]
+NO
+No
+
+
+NO
+# 1. [yes](https://
+
+[no]
+Read the following tweet inside brackets:
+YES
+NO
+No
+no
+yes
+NO
+no
+[No]
+NO
+[YES]
+NO
+YES
+
+
+[NO]
+
+
+YES
+NO
+NO
+
+YES
+YES
+
+NO
+YES
+YES
+yes
+NO
+NO
+YES
+
+NO
+Rate the tweet you read on whether it mentions
+NO
+Rate the tweet you read on whether it mentions
+[no]
+NO
+[No]
+No
+no
+
+NO
+No
+yes
+YES
+NO
+No
+
+[yes/no]
+[yes/no]
+NO
+
+[ ] Yes  [ ] No
+NO
+NO
+NO
+
+1
+No
+NO
+
+no
+
+NO
+NO
+
+0
+no
+NO
+no
+
+no
+NO
+no
+NO
+NO
+
+NO
+
+NO
+NO
+No
+["no"]
+NO
+NO
+no
+
+No
+NO
+
+NO
+no
+NO
+0
+no
+
+NO
+[no]
+[NO]
+
+no
+
+
+
+1
+["When you have guest like Zakir Na
+NO
+
+
+
+YES
+
+1. Sports betting is mentioned in the tweet
+
+Rate the tweet you read on whether it mentions
+YES  NO
+yes
+YES
+no
+NO
+NO
+
+YES
+
+no
+yes
+NO
+yes
+NO
+1. No
+YES  NO
+No
+NO
+NO
+Rate the tweet you read on whether it mentions
+1. "The problem is the religion not
+
+
+
+YES
+
+YES
+no
+
+No
+0
+
+
+
+no
+YES NO
+NO
+
+no
+1
+NO
+YES NO
+NO
+NO
+YES / NO
+[NO]
+no
+
+No
+
+NO
+
+
+NO
+1
+NO
+no
+NO
+no
+yes or no
+
+
+NO
+
+[YES]
+
+NO
+
+1
+YES
+NO
+["The lsraeli occupation forces invade a
+[ ] Yes
+YES
+
+NO
+
+YES
+yes
+NO
+
+[yes]
+
+
+NO
+yes
+
+
+NO
+
+
+No
+NO
+YES
+no
+
+NO
+NO
+The tweet was posted by the following Twitter account
+NO
+
+no
+
+
+[No]
+No
+no
+
+YES
+0
+NO
+NO
+YES  NO
+No
+YES
+YES  NO
+1
+
+
+[NO]
+NO
+
+
+No
+Yes
+YES
+NO
+NO
+1. Yes 2. No
+NO
+0
+
+NO
+
+YES
+No
+NO
+What is the name of the author of the
+Now, rate the tweet you read on whether
+NO
+[NO]
+YES
+no
+yes
+
+NO
+no
+NO
+[no]
+No
+No
+1. 2. 3.
+
+YES
+no
+
+NO
+[Yes]
+[no]
+No
+NO
+No
+[YES]
+YES
+no
+YES NO
+No
+no
+NO
+YES
+NO
+no
+No
+No
+1
+
+YES
+0.5
+0
+No
+NO
+NO
+
+no
+
+No
+YES NO
+NO
+NO
+[1]
+YES
+
+
+1. The tweet mentions sports betting.
+NO
+[ ] Yes
+NO
+NO
+No
+NO
+YES
+NO
+## Answer
+0
+No
+no
+
+NO
+
+NO
+YES
+YES
+
+
+No
+
+NO
+NO
+
+NO
+
+[ ] yes  [ ] no
+no
+[yes/no]
+
+1
+
+
+NO
+No
+## Dataset Card for `tweet_sports_b
+0
+NO
+No
+
+No
+
+NO
+NO
+Rate the tweet you read on whether it mentions
+
+[yes]
+
+No
+NO
+YES
+YES
+NO
+
+
+NO
+Rate the tweet you read on whether it mentions
+NO
+
+[1. No]
+NO
+NO
+
+[ ] Yes
+YES
+no
+NO
+[Yes]
+
+YES
+NO
+NO
+
+
+Rate the tweet you read on whether it mentions
+
+1
+Yes
+NO
