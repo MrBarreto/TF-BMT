@@ -27,7 +27,10 @@ O projeto está organizado nas seguintes pastas e arquivos:
   - pandas
   - numpy
   - sklearn
-  - transformers (ou qualquer outra biblioteca necessária para os modelos de linguagem natural utilizados)
+  - transformers
+  - llama_cpp
+  - Ambiente configurado com cuda e rapidsAI
+  
 
 ## Instruções de Uso
 
@@ -58,7 +61,6 @@ Os modelos foram empregados em duas abordagens distintas:
 - **Abordagem Não Informada**: Nesta abordagem, perguntamos diretamente sobre apostas esportivas sem fornecer explicações prévias.
 
 Os modelos foram avaliados com base em métricas de desempenho como precisão, recall e F1-Score, para determinar sua eficácia na identificação de tweets sobre apostas esportivas.
-
 
 
 ## Licença
